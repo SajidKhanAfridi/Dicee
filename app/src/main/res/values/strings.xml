@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dicee</string>
+    <string name="button_text">Roll</string>
+    <string name="diceelogo"></string>
+    <string name="image_rightDicee"></string>
+    <string name="image_leftDicee"></string>
+    <string name="designerAndProgrammer">SajidKhanAfridi</string>
+</resources>
